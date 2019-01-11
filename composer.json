@@ -1,0 +1,14 @@
+{
+    "name": "dell/photo",
+    "authors": [
+        {
+            "name": "wanghaibing",
+            "email": "wanghaibing@shein.com"
+        }
+    ],
+    "require": {
+        "jaeger/querylist": "^4.0",
+        "guzzlehttp/guzzle": "~6.0",
+        "dolphin.wang/unsplash-random-download": "^1.1"
+    }
+}
