@@ -9,6 +9,7 @@
     "require": {
         "jaeger/querylist": "^4.0",
         "guzzlehttp/guzzle": "~6.0",
-        "dolphin.wang/unsplash-random-download": "^1.1"
+        "dolphin.wang/unsplash-random-download": "^1.1",
+        "symfony/yaml": "^4.3"
     }
 }
